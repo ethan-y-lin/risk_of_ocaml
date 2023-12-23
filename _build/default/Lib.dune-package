@@ -1,0 +1,141 @@
+(lang dune 3.10)
+(name Lib)
+(sections (lib .) (libexec .) (doc ../../doc/Lib))
+(files
+ (lib
+  (META
+   active.ml
+   constants.ml
+   continent.ml
+   continent.mli
+   dune-package
+   game.ml
+   game.mli
+   instructions.ml
+   lib.a
+   lib.cma
+   lib.cmi
+   lib.cmt
+   lib.cmx
+   lib.cmxa
+   lib.ml
+   lib__Active.cmi
+   lib__Active.cmt
+   lib__Active.cmx
+   lib__Constants.cmi
+   lib__Constants.cmt
+   lib__Constants.cmx
+   lib__Continent.cmi
+   lib__Continent.cmt
+   lib__Continent.cmti
+   lib__Continent.cmx
+   lib__Game.cmi
+   lib__Game.cmt
+   lib__Game.cmti
+   lib__Game.cmx
+   lib__Instructions.cmi
+   lib__Instructions.cmt
+   lib__Instructions.cmx
+   lib__Map.cmi
+   lib__Map.cmt
+   lib__Map.cmti
+   lib__Map.cmx
+   lib__Menu.cmi
+   lib__Menu.cmt
+   lib__Menu.cmx
+   lib__Player.cmi
+   lib__Player.cmt
+   lib__Player.cmti
+   lib__Player.cmx
+   lib__Start.cmi
+   lib__Start.cmt
+   lib__Start.cmx
+   lib__Territories.cmi
+   lib__Territories.cmt
+   lib__Territories.cmti
+   lib__Territories.cmx
+   lib__View.cmi
+   lib__View.cmt
+   lib__View.cmx
+   map.ml
+   map.mli
+   menu.ml
+   opam
+   player.ml
+   player.mli
+   start.ml
+   territories.ml
+   territories.mli
+   view.ml))
+ (libexec (lib.cmxs))
+ (doc (README.md)))
+(library
+ (name Lib)
+ (kind normal)
+ (archives (byte lib.cma) (native lib.cmxa))
+ (plugins (byte lib.cma) (native lib.cmxs))
+ (native_archives lib.a)
+ (requires lwt raylib raygui stdlib ounit2 yojson)
+ (main_module_name Lib)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name lib)
+     (visibility public)
+     (kind alias)
+     (source (path Lib) (impl (path lib.ml-gen))))
+    (name Lib)
+    (modules
+     (module
+      (obj_name lib__Active)
+      (visibility public)
+      (source (path Active) (impl (path active.ml))))
+     (module
+      (obj_name lib__Constants)
+      (visibility public)
+      (source (path Constants) (impl (path constants.ml))))
+     (module
+      (obj_name lib__Continent)
+      (visibility public)
+      (source
+       (path Continent)
+       (intf (path continent.mli))
+       (impl (path continent.ml))))
+     (module
+      (obj_name lib__Game)
+      (visibility public)
+      (source (path Game) (intf (path game.mli)) (impl (path game.ml))))
+     (module
+      (obj_name lib__Instructions)
+      (visibility public)
+      (source (path Instructions) (impl (path instructions.ml))))
+     (module
+      (obj_name lib__Map)
+      (visibility public)
+      (source (path Map) (intf (path map.mli)) (impl (path map.ml))))
+     (module
+      (obj_name lib__Menu)
+      (visibility public)
+      (source (path Menu) (impl (path menu.ml))))
+     (module
+      (obj_name lib__Player)
+      (visibility public)
+      (source (path Player) (intf (path player.mli)) (impl (path player.ml))))
+     (module
+      (obj_name lib__Start)
+      (visibility public)
+      (source (path Start) (impl (path start.ml))))
+     (module
+      (obj_name lib__Territories)
+      (visibility public)
+      (source
+       (path Territories)
+       (intf (path territories.mli))
+       (impl (path territories.ml))))
+     (module
+      (obj_name lib__View)
+      (visibility public)
+      (source (path View) (impl (path view.ml))))))
+   (wrapped true))))

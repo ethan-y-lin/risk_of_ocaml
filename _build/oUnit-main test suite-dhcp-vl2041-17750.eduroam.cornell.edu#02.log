@@ -1,0 +1,294 @@
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:1:player 2 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:1:player 2 territories list is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:1:player 2 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:3:player 4 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:3:player 4 territories list is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:3:player 4 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:5:player 6 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:5:player 6 territories list is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:5:player 6 territories list.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:7:get name of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:7:get name of South America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:7:get name of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:9:get name of Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:9:get name of Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:9:get name of Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:11:get name of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:11:get name of Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:11:get name of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:13:get value of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:13:get value of South America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:13:get value of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:16:get value of Asia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:16:get value of Asia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:16:get value of Asia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:18:to_string North America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:18:to_string North America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:18:to_string North America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:20:to_string Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:20:to_string Africa is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:20:to_string Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:21:to_string Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:21:to_string Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:21:to_string Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:23:to_string Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:23:to_string Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:23:to_string Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:25:get number of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:25:get number of South America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:25:get number of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:27:get number of Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:27:get number of Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:27:get number of Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:29:get number of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:29:get number of Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:29:get number of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:31:get continent value of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:31:get continent value of South America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:31:get continent value of South America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:34:get continent value of Asia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:34:get continent value of Asia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:34:get continent value of Asia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:35:get continent value of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:35:get continent value of Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:35:get continent value of Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:38:get owner of congo.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:38:get owner of congo is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:38:get owner of congo.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:39:get owner of indonesia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:39:get owner of indonesia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:39:get owner of indonesia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:41:get owner of new guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:41:get owner of new guinea is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:41:get owner of new guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:43:get owner of scandinavia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:43:get owner of scandinavia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:43:get owner of scandinavia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:45:get owner of china.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:45:get owner of china is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:45:get owner of china.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:47:get owner of veneuzela.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:47:get owner of veneuzela is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:47:get owner of veneuzela.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:50:get name of Alberta.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:50:get name of Alberta is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:50:get name of Alberta.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:51:get name of Central America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:51:get name of Central America is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:51:get name of Central America.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:54:get name of Argentina.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:54:get name of Argentina is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:54:get name of Argentina.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:55:get name of Brazil.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:55:get name of Brazil is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:55:get name of Brazil.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:58:get name of Eastern Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:58:get name of Eastern Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:58:get name of Eastern Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:60:get name of New Guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:60:get name of New Guinea is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:60:get name of New Guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:62:get name of Great Britain.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:62:get name of Great Britain is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:62:get name of Great Britain.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:64:get name of Northern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:64:get name of Northern Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:64:get name of Northern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:66:get name of Southern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:66:get name of Southern Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:66:get name of Southern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:68:get name of East Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:68:get name of East Africa is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:68:get name of East Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:70:get name of Afghanistan.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:70:get name of Afghanistan is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:70:get name of Afghanistan.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:72:get name of India.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:72:get name of India is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:72:get name of India.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:74:get name of Japan.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:74:get name of Japan is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:74:get name of Japan.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:76:get troops of Alaska.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:76:get troops of Alaska is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:76:get troops of Alaska.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:78:get troops of Quebec.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:78:get troops of Quebec is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:78:get troops of Quebec.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:80:get troops of Southern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:80:get troops of Southern Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:80:get troops of Southern Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:82:get troops of Western Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:82:get troops of Western Europe is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:82:get troops of Western Europe.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:84:get troops of North Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:84:get troops of North Africa is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:84:get troops of North Africa.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:86:get troops of Kamchatka.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:86:get troops of Kamchatka is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:86:get troops of Kamchatka.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:88:get troops of Mongolia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:88:get troops of Mongolia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:88:get troops of Mongolia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:90:get troops of Siberia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:90:get troops of Siberia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:90:get troops of Siberia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:92:get troops of Yakutsk.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:92:get troops of Yakutsk is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:92:get troops of Yakutsk.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:94:get troops of New Guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:94:get troops of New Guinea is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:94:get troops of New Guinea.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:97:get troops of Brazil.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:97:get troops of Brazil is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:97:get troops of Brazil.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:99:get continent of Alberta.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:99:get continent of Alberta is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:99:get continent of Alberta.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:101:get continent of Ontario.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:101:get continent of Ontario is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:101:get continent of Ontario.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:103:get continent of Argentina.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:103:get continent of Argentina is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:103:get continent of Argentina.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:105:get continent of Eastern Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:105:get continent of Eastern Australia is successful.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:105:get continent of Eastern Australia.
+2023-12-10T00:48:40+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:107:get continent of Iceland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:107:get continent of Iceland is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:107:get continent of Iceland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:109:get continent of Western Europe.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:109:get continent of Western Europe is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:109:get continent of Western Europe.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:111:get continent of Madagascar.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:111:get continent of Madagascar is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:111:get continent of Madagascar.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:113:get continent of Japan.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:113:get continent of Japan is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:113:get continent of Japan.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:115:get continent of Ural.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:115:get continent of Ural is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:115:get continent of Ural.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:117:get location of Alaska.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:117:get location of Alaska is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:117:get location of Alaska.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:118:get location of Central America.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:118:get location of Central America is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:118:get location of Central America.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:121:get location of Argentina.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:121:get location of Argentina is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:121:get location of Argentina.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:123:get location of Peru.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:123:get location of Peru is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:123:get location of Peru.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:125:get location of New Guinea.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:125:get location of New Guinea is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:125:get location of New Guinea.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:127:get location of Great Britain.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:127:get location of Great Britain is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:127:get location of Great Britain.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:129:get location of Ukraine.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:129:get location of Ukraine is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:129:get location of Ukraine.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:131:get location of South Africa.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:131:get location of South Africa is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:131:get location of South Africa.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:133:get location of Irkutsk.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:133:get location of Irkutsk is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:133:get location of Irkutsk.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:135:get location of Afghanistan.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:135:get location of Afghanistan is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:135:get location of Afghanistan.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:137:get neighbors of Western US.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:137:get neighbors of Western US is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:137:get neighbors of Western US.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:139:get neighbors of Brazil.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:139:get neighbors of Brazil is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:139:get neighbors of Brazil.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:141:get neighbors of Indonesia.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:141:get neighbors of Indonesia is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:141:get neighbors of Indonesia.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:143:get neighbors of Northern Europe.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:143:get neighbors of Northern Europe is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:143:get neighbors of Northern Europe.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:145:get neighbors of East Africa.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:145:get neighbors of East Africa is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:145:get neighbors of East Africa.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:146:get neighbors of Madagascar.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:146:get neighbors of Madagascar is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:146:get neighbors of Madagascar.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:149:string neighbours of Greenland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:149:string neighbours of Greenland is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:149:string neighbours of Greenland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:150:string neighbours of Iceland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:150:string neighbours of Iceland is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:150:string neighbours of Iceland.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:153:get territories of player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:153:get territories of player 2 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:153:get territories of player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:154:get territories of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:154:get territories of player 3 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:154:get territories of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:156:get territories of player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:156:get territories of player 5 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:156:get territories of player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:158:get name of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:158:get name of player 1 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:158:get name of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:160:get name of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:160:get name of player 3 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:160:get name of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:162:get name of player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:162:get name of player 5 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:162:get name of player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:164:get continent bonus of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:164:get continent bonus of player 1 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:164:get continent bonus of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:165:get continent bonus of player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:165:get continent bonus of player 2 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:165:get continent bonus of player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:167:get continent bonus of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:167:get continent bonus of player 4 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:167:get continent bonus of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:169:get continent bonus of player 6.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:169:get continent bonus of player 6 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:169:get continent bonus of player 6.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:172:get color of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:172:get color of player 3 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:172:get color of player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:173:get color of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:173:get color of player 4 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:173:get color of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:176:get japan from player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:176:get japan from player 1 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:176:get japan from player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:178:get kamchatka from player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:178:get kamchatka from player 2 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:178:get kamchatka from player 2.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:180:get egypt from player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:180:get egypt from player 3 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:180:get egypt from player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:181:get iceland from player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:181:get iceland from player 3 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:181:get iceland from player 3.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:184:get brazil from player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:184:get brazil from player 5 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:184:get brazil from player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:185:get peru from player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:185:get peru from player 5 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:185:get peru from player 5.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:189:num territories of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:189:num territories of player 4 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:189:num territories of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:191:num territories of player 6.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:191:num territories of player 6 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:191:num territories of player 6.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:192:get string territories of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:192:get string territories of player 1 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:192:get string territories of player 1.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:195:get string territories of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:195:get string territories of player 4 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:195:get string territories of player 4.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Start test main test suite:197:get string territories of player 6.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: Test main test suite:197:get string territories of player 6 is successful.
+2023-12-10T00:48:41+00:00 dhcp-vl2041-17750.eduroam.cornell.edu#02 I: End test main test suite:197:get string territories of player 6.
